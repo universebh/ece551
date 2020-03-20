@@ -1,0 +1,13 @@
+aaaaa bbbbb
+aaaaa bbbbc
+aaabb bbbbc
+abcdc abcab
+abcde a
+a abcde
+a
+abcdee aabcdd
+
+abcde abcde
+abcde abcde abcde
+caabb ezzzz
+cqdbb aazb_c

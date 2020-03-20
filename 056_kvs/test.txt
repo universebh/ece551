@@ -1,0 +1,7 @@
+apple=red
+banana=yellow
+abcd
+orange=orange
+grapes=purple
+carrot=orange
+eggplant=purple

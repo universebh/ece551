@@ -1,0 +1,35 @@
+Grading at 09/25/2018:19:51:58.908714
+For commit ID 5cb1339a1ad9fcc422c438c862b3d4c802036261
+[32mSuccessfully compiled ['rotateMatrix.c'].[0m
+********************test case 1********************
+Exit status of your code: 1
+[32mValgrind was clean[0m
+[32mCorrect: your code indicates this is a failure case.[0m
+[32mpassed test case 1[0m
+********************test case 2********************
+Exit status of your code: 1
+[32mValgrind was clean[0m
+[32mCorrect: your code indicates this is a failure case.[0m
+[32mpassed test case 2[0m
+********************test case 3********************
+Exit status of your code: 1
+[32mValgrind was clean[0m
+[32mCorrect: your code indicates this is a failure case.[0m
+[32mpassed test case 3[0m
+********************test case 4********************
+Exit status of your code: 1
+[32mValgrind was clean[0m
+[32mCorrect: your code indicates this is a failure case.[0m
+[32mpassed test case 4[0m
+********************test case 5********************
+Exit status of your code: 1
+[32mValgrind was clean[0m
+[32mCorrect: your code indicates this is a failure case.[0m
+[32mpassed test case 5[0m
+********************test case 6********************
+Exit status of your code: 0
+[32mValgrind was clean[0m
+[32mCorrect: your output matched the expected output.[0m
+[32mpassed test case 6[0m
+[32msuccessfully passed all 6 test cases[0m
+Overall Grade: A
